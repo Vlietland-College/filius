@@ -1,6 +1,6 @@
 # Werkomgeving Filius
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/filius)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Vlietland-College/filius)
 
 Met deze repository kun je in GitPod aan de slag in Filius, het programma om te leren hoe computers met elkaar communiceren.
 
@@ -16,3 +16,6 @@ Veel plezier!
 
 
 Meer informatie over Filius vind je op de site van de maker: [https://www.lernsoftware-filius.de](https://www.lernsoftware-filius.de)
+
+
+Met dank aan het [Emmauscollege](https://github.com/emmauscollege)
